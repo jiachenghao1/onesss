@@ -14,6 +14,7 @@
 		4ED2BD531CD08689001577B2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4ED2BD521CD08689001577B2 /* Images.xcassets */; };
 		4ED2BD561CD08689001577B2 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4ED2BD541CD08689001577B2 /* LaunchScreen.xib */; };
 		4ED2BD621CD08689001577B2 /* onesssTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4ED2BD611CD08689001577B2 /* onesssTests.m */; };
+		4ED2BD6D1CD0877D001577B2 /* dhadhkaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4ED2BD6C1CD0877D001577B2 /* dhadhkaViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		4ED2BD5B1CD08689001577B2 /* onesssTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = onesssTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4ED2BD601CD08689001577B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4ED2BD611CD08689001577B2 /* onesssTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = onesssTests.m; sourceTree = "<group>"; };
+		4ED2BD6B1CD0877D001577B2 /* dhadhkaViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = dhadhkaViewController.h; sourceTree = "<group>"; };
+		4ED2BD6C1CD0877D001577B2 /* dhadhkaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = dhadhkaViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +66,8 @@
 		4ED2BD391CD08688001577B2 = {
 			isa = PBXGroup;
 			children = (
+				4ED2BD6B1CD0877D001577B2 /* dhadhkaViewController.h */,
+				4ED2BD6C1CD0877D001577B2 /* dhadhkaViewController.m */,
 				4ED2BD441CD08688001577B2 /* onesss */,
 				4ED2BD5E1CD08689001577B2 /* onesssTests */,
 				4ED2BD431CD08688001577B2 /* Products */,
@@ -221,6 +226,7 @@
 			files = (
 				4ED2BD4E1CD08688001577B2 /* ViewController.m in Sources */,
 				4ED2BD4B1CD08688001577B2 /* AppDelegate.m in Sources */,
+				4ED2BD6D1CD0877D001577B2 /* dhadhkaViewController.m in Sources */,
 				4ED2BD481CD08688001577B2 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -412,6 +418,7 @@
 				4ED2BD671CD08689001577B2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4ED2BD681CD08689001577B2 /* Build configuration list for PBXNativeTarget "onesssTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +427,7 @@
 				4ED2BD6A1CD08689001577B2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

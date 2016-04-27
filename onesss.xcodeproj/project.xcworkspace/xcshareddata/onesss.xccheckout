@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>77F2FCFD-B061-477D-B532-9EFCEECE0D97</string>
+	<key>IDESourceControlProjectName</key>
+	<string>onesss</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3D999C8264AC60E179424866A982008007CB93CE</key>
+		<string>https://github.com/jiachenghao1/onesss.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>onesss.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3D999C8264AC60E179424866A982008007CB93CE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jiachenghao1/onesss.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3D999C8264AC60E179424866A982008007CB93CE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3D999C8264AC60E179424866A982008007CB93CE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>onesss</string>
+		</dict>
+	</array>
+</dict>
+</plist>
